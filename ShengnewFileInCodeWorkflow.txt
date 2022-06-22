@@ -1,1 +1,2 @@
 Why no line to start with
+added new line to test for conflict
